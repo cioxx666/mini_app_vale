@@ -2,7 +2,7 @@ import streamlit as st
 import time
 import random
 
-st.set_page_config(page_title='Cosa facciamo stasera?', page_icon='<3')
+st.set_page_config(page_title='Cosa facciamo stasera?', page_icon='icona.png')
 st.title('Decisore ufficiale di serate!')
 st.write('Siete indecisi? Nessun problema. Cliccate e lasciate scegliere al destino.')
 
